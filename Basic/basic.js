@@ -50,6 +50,7 @@ if (cane) {
   cane.habitat = "giardino";
 }
 console.log(animaliSemplici);
+console.log("---");
 // 9. Contare quanti animali hanno un numero pari di zampe.
 let countPari = 0;
 for (let i = 0; i < animaliSemplici.length; i++) {
